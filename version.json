@@ -1,5 +1,5 @@
 {
-  "version": "0.1.1",
-  "downloadUrl": "https://github.com/iam-zekai/kai-office-release/releases/download/v0.1.1/KAI-Office-v0.1.1.zip",
-  "changelog": "首个公开版本"
+  "version": "0.1.2",
+  "downloadUrl": "https://github.com/iam-zekai/kai-office-release/releases/download/v0.1.2/KAI-Office-v0.1.2.zip",
+  "changelog": "API 超时优化 + 智谱 Coding 模型 + 审校增强 + 设置弹窗修复"
 }
