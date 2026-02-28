@@ -1,5 +1,5 @@
 {
-  "version": "0.1.4",
-  "downloadUrl": "https://github.com/iam-zekai/kai-office-release/releases/download/v0.1.4/KAI-Office-v0.1.4.zip",
-  "changelog": "新增审查意见书输出 + 报告导出PDF/图片 + 智律积成审查技能 + 批量操作优化 + 报告布局重构"
+  "version": "0.2.0",
+  "downloadUrl": "https://github.com/iam-zekai/tianji-ai-release/releases/download/v0.2.0/TianJi-AI-v0.2.0.zip",
+  "changelog": "品牌升级：KAI 办公助手 → 天机 AI，全新品牌定位和视觉标识"
 }
