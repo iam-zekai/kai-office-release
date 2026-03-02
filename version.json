@@ -1,5 +1,5 @@
 {
-  "version": "0.2.1",
-  "downloadUrl": "https://github.com/iam-zekai/tianji-ai-release/releases/download/v0.2.1/TianJi-AI-v0.2.1.zip",
-  "changelog": "修复 AI 助手回复时白屏问题，增强错误处理机制"
+  "version": "0.2.2",
+  "downloadUrl": "https://github.com/iam-zekai/tianji-ai-release/releases/download/v0.2.2/TianJi-AI-v0.2.2.zip",
+  "changelog": "代码重构优化，修复白屏问题，增强错误恢复机制，修复 Chrome 90 兼容性"
 }
