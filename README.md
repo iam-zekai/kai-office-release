@@ -1,1 +1,137 @@
-IyDlpKnmnLogQUkgwrcgV1BTIOaZuuiDveWKnuWFrOWKqeaJiwoKPHAgYWxpZ249ImNlbnRlciI+CiAgPGltZyBzcmM9Imh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9pYW0temVrYWkvdGlhbmppLWFpLXJlbGVhc2UvbWFpbi9hc3NldHMvbG9nby5wbmciIGFsdD0i5aSp5py6IEFJIExvZ28iIHdpZHRoPSIxMjAiPgo8L3A+Cgo8cCBhbGlnbj0iY2VudGVyIj4KICA8c3Ryb25nPuS9oOeahOaWh+aho++8jOiHquacieWkqeacujwvc3Ryb25nPgo8L3A+Cgo8cCBhbGlnbj0iY2VudGVyIj4KICA8YSBocmVmPSIj5Yqf6IO954m55oCnIj7lip/og73nibnmgKc8L2E+IOKAogogIDxhIGhyZWY9IiPlronoo4XmjIfljZciPuWuieijheaMh+WNlzwvYT4g4oCiCiAgPGEgaHJlZj0iI+S9v+eUqOivtOaYjiI+5L2/55So6K+05piOPC9hPiDigKIKICA8YSBocmVmPSIj5pu05paw5pel5b+XIj7mm7TmlrDml6Xlv5c8L2E+IOKAogogIDxhIGhyZWY9IiPmioDmnK/mnrbmnoQiPuaKgOacr+aetuaehDwvYT4KPC9wPgoKLS0tCgojIyDnroDku4sKCioq5aSp5py6IEFJKirvvIhUaWFuSmkgQUnvvInmmK/kuIDmrL7kuJPkuLogV1BTIE9mZmljZSDmiZPpgKDnmoTmmbrog73lip7lhazmj5Lku7bvvIzmt7Hluqbono3lkIggQUkg6IO95Yqb77yM6K6p5paH5qGj5aSE55CG5pu05pm66IO944CB5pu06auY5pWI44CC5YmN6Lqr5Li6IEtBSSDlip7lhazliqnmiYvvvIx2MC4yLjAg6LW35YWo6Z2i5Y2H57qn5ZOB54mM5b2i6LGh44CCCgo+ICLlpKnmnLoi5Y+W6Ieq44CK5piT57uP44CL4oCU4oCU5rSe5a+f5paH5qGj546E5py677yM5YyW57mB5Li6566A44CCCgojIyDinKgg5Yqf6IO954m55oCnCgojIyMg8J+kliBBSSDliqnmiYsKLSDmmbrog73lr7nor53vvIzpmo/ml7bop6PnrZTlip7lhaznlpHpl64KLSDlpJrmqKHlnovmlK/mjIHvvJrmmbrosLEgR0xNLTUvNC43LzQuNuOAgU9wZW5DbGF3IOetiQotIEFnZW50IOaooeW8j++8muiHquWKqOiwg+eUqOW3peWFt+WujOaIkOWkjeadguS7u+WKoQotIOi2hemVv+S4iuS4i+aWh+aUr+aMge+8jOWkp+aWh+aho+S5n+iDvei9u+advuWkhOeQhgoKIyMjIPCfk50g5paH5qGj5a6h5qChCi0gKirlj4zmqKHlvI/liIfmjaIqKu+8muS/ruiuouagh+iusOaooeW8jyAvIOebtOaOpeabv+aNouaooeW8jwotIOiHquWumuS5ieWuoemYheS6uuWQjeensO+8jOS/ruiuouagh+iusOS4quaAp+WMluaYvuekugotIOaUr+aMgeiHquWumuS5ieWuoeagoeimgeaxgu+8mumXrumimOe7n+iuoeOAgeivpue7huWIhuaekOOAgeS/ruaUueW7uuiurgoKIyMjIOKalu+4jyDmmbrog73lrqHmn6UKLSAqKuW5v+WRiuazleWQiOinhOWuoeafpSoq77ya5pm66IO96K+G5Yir6L+d6KeE55So6K+t77yM55Sf5oiQ5ZCI6KeE5bu66K6uCi0gKirlkIjlkIzlrqHmn6UqKu+8muadoeasvumjjumZqeivhuWIq+OAgee8uuWksemhueaPkOekugotICoq6aKE5YyF6KOF6aOf5ZOB5qCH562+5a6h5p+lKirvvJrnrKblkIjms5Xop4TopoHmsYLnmoTmoIfnrb7lkIjop4Tmo4DmtYsKLSAqKuWuoeafpeaEj+ingeS5pioq77yaQTQg5o6S54mI44CB6KGs57q/5a2X5L2T44CB57yW5Y+35YiG5p6Q44CB5Y2w56ug562+572y5Yy677yM5q2j5byP5rOV5b6L5paH5Lmm6aOO5qC86L6T5Ye6CgojIyMg8J+OqCDnlKjmiLfkvZPpqowKLSBSaWJib24g6ZuG5oiQ77yM5Y6f55Sf5Yqe5YWs5L2T6aqMCi0g5ZON5bqU5byPIFVJ77yM5pSv5oyB5aSa56qX5Y+j6Ieq55Sx6LCD5pW0Ci0g6Ieq5Yqo5riF55CG5pen54mI5pys77yM5peg57yd5Y2H57qnCi0gV2luZG93cyAmIG1hY09TIOWPjOW5s+WPsOaUr+aMgQoKIyMg8J+TpiDlronoo4XmjIfljZcKCiMjIyDmlrnlvI/kuIDvvJroh6rliqjlronoo4XvvIjmjqjojZDvvIkKCjEuIOS4i+i9veacgOaWsOeJiOacrOeahCBgdGlhbmppLWFpLXZ4LngueC56aXbgCjIuIOino+WOi+WIsOS7u+aEj+ebruW9lQozLiDlj4zlh7vov5DooYzlronoo4XohJrmnKzvvJoKICAgLSBXaW5kb3dzOiBgaW5zdGFsbC5iYXRgCiAgIC0gbWFjT1M6IGBpbnN0YWxsLnNoYAo0LiDmiZPlvIAgV1BT77yM5ZyoIFJpYmJvbiDmoI/mib7liLDjgIzlpKnmnLogQUnjgI3pgInpobnljaEKCj4g5a6J6KOF6ISa5pys5Lya6Ieq5Yqo5riF55CG5pen54mI5pys77yM5peg6ZyA5omL5Yqo5Y246L2944CCCgojIyMg5pa55byP5LqM77ya5omL5Yqo5a6J6KOFCgoxLiDkuIvovb3lubbop6PljosgYHRpYW5qaS1haS12eC54LnguemlwYAoyLiDmiZPlvIAgV1BTIOKGkiDlvIDlj5Hlt6Xlhbcg4oaSIOWKoOi9vemhuQozLiDmtY/op4jpgInmi6nop6Pljovnm67lvZXkuK3nmoQgYHRpYW5qaS1haS53cHNgIOaWh+S7tgo0LiDlkK/nlKjmj5Lku7YKCiMjIPCfmoAg5L2/55So6K+05piOCgojIyMg6aaW5qyh5L2/55SoCgoxLiDngrnlh7sgUmliYm9uIOagj+OAjOWkqeacuiBBSeOAjeKGkuOAjEFJIOWKqeaJi+OAjQoyLiDlnKjorr7nva7pnaLmnb/phY3nva7kvaDnmoQgQVBJIEtleQozLiDpgInmi6nlgY/lpb3nmoQgQUkg5qih5Z6LCjQuIOW8gOWni+S9v+eUqAoKIyMjIOaWh+aho+WuoeagoQoKMS4g5omT5byA6ZyA6KaB5a6h5qCh55qE5paH5qGjCjIuIOeCueWHu+OAjOaWh+aho+WuoeagoeOAjeaMiemSrgozLiDpgInmi6nlrqHmoKHnsbvlnovvvIjpgJrnlKggLyDms5XlvosgLyDlub/lkYrnrYnvvIkKNC4g6K6+572u5a6h6ZiF5Lq65ZCN56ew77yI5Y+v6YCJ77yJCjUuIOeCueWHu+W8gOWni++8jOetieW+hSBBSSDliIbmnpAKNi4g5p+l55yL5a6h5qCh5oql5ZGK77yM6YCJ5oup5o6l5Y+X5oiW5b+955Wl5L+u5pS55bu66K6uCgojIyMg5a6h5p+l5oSP6KeB5LmmCgoxLiDlrozmiJDmlofmoaPlrqHmn6XlkI7vvIzngrnlh7vjgIzlr7zlh7rmhI/op4HkuabjgI0KMi4g57O757uf6Ieq5Yqo55Sf5oiQ5bim57yW5Y+344CB5Y2w56ug5Yy655qE5q2j5byP5paH5LmmCjMuIOaUr+aMgeWvvOWHuuS4uiBQREYg5oiW5Zu+54mHCgojIyDwn5ugIOaKgOacr+aetuaehAoKYGBgCuWkqeacuiBBSQrilJzilIDilIAg5YmN56uvOiBWdWUgMyArIFZpdGUK4pSc4pSA4pSAIFVJIOe7hOS7tjogUmVmaW5lZCBUaGVtZQrilJzilIDilIAgV1BTIOmbhuaIkDogV1BTIE9mZmljZSBKUyBBUEkK4pSc4pSA4pSAIEFJIOW8leaTjjog5aSa5qih5Z6L6YCC6YWN5bGCCuKUgiAgIOKUnOKUgOKUgCDmmbrosLEgR0xNIChDb2Rpbmcv5qCH5YeGKQrilIIgICDilJzilIDilIAgT3BlbkNsYXcgR2F0ZXdheQrilIIgICDilJTilIDilIAg5pu05aSa5o+Q5L6b5ZWG5oyB57ut5o6l5YWlLi4uCuKUlOKUgOKUgCDmnoTlu7o6IOaooeWdl+WMluaetuaehO+8jOaUr+aMgeaHkuWKoOi9vQpgYGAKCiMjMyDlhbzlrrnmgKcKCnwg5bmz5Y+wIHwg5pyA5L2O54mI5pysIHwg54q25oCBIHwKfC0tLS0tLXwtLS0tLS0tLS0tfC0tLS0tLXwKfCBXUFMgV2luZG93cyB8IDIwMTkrIHwg4pyFIOWujOWFqOaUr+aMgSB8CnwgV1BTIG1hY09TIHwgMy4wKyB8IOKchSDlrozlhajmlK/mjIEgfAp8IENocm9tZSDlhoXmoLggfCA5MCsgfCDinIUg5YW85a65IHwKCiMjIPCflIQg5pu05paw5pel5b+XCgojIyMgdjAuMi4wICgyMDI2LTAyLTI4KSAtIOWTgeeJjOWNh+e6pwotIPCfjqgg5YWo5paw5ZOB54mM77yaS0FJIOWKnuWFrOWKqeaJiyDihpIg5aSp5py6IEFJCi0g8J+Pt++4jyBTbG9nYW7vvJrjgIzkvaDnmoTmlofmoaPvvIzoh6rmnInlpKnmnLrjgI0KLSAwn5OEIOWuoeafpeaEj+ingeS5puato+W8j+eJiOS4iue6vwotIPCfm6HvuI8g5LiJ6YeN6Ziy5oqk5py65Yi277ya5Yqg6L295o+Q56S6IOKGkiDplJnor6/ovrnnlYwg4oaSIOWFqOWxgOWFnOW6lQoKIyMjIHYwLjEuMyAoMjAyNi0wMi0yNSkKLSDinKgg5YWo5paw5ZOB54mM6KeG6KeJ77ya57Sr6JOd5riQ5Y+Y5ZyG5qCHICsgSyDlrZflvaIKLSDwn5SnIOWinuWKoOaZuuiwsSBHTE0gKENvZGluZykg5o+Q5L6b5ZWGCi0g8J+TnSDmlofmoaPlrqHmoKHmlK/mjIHoh6rlrprkuYnlrqHpmIXkuroKCiMjIyB2MC4xLjIgKDIwMjYtMDItMjUpCi0g4o+x77iPIEFQSSDotoXml7blu7bplb/oh7MgNjBzICsg6Ieq5Yqo6YeN6K+VCi0g8J+QmyDkv67lpI0gV2luZG93cyDlvLnnqpfmnIDlsI/ljJbpl67popgKCiMjIyB2MC4xLjAgKDIwMjYtMDItMjQpCi0g8J+OiSDpppbkuKrlhazlvIDniYjmnKzlj5HluIMKClvmn6XnnIvlrozmlbTmm7TmlrDml6Xlv5ddKC4vQ0hBTkdFTE9HLm1kKQoKIyMg8J+TnSDorrjlj6/or4EKCk1JVCBMaWNlbnNlIMKpIDIwMjYg5aSp5py6IEFJIFRlYW0KCi0tLQoKPHAgYWxpZ249ImNlbnRlciI+CiAg6YGH5Yiw6Zeu6aKY77yf6K+35o+Q5LqkIDxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9pYW0temVrYWkvdGlhbmppLWFpLXJlbGVhc2UvaXNzdWVzIj5Jc3N1ZTwvYT4KPC9wPgo=
+# 天机 AI · WPS 智能办公助手
+
+<p align="center">
+  <strong>你的文档，自有天机</strong>
+</p>
+
+---
+
+## 简介
+
+**天机 AI**（TianJi AI）是一款专为 WPS Office 打造的智能办公插件，深度融合 AI 能力，让文档处理更智能、更高效。前身为 KAI 办公助手，v0.2.0 起全面升级品牌形象。
+
+> "天机"取自《易经》——洞察文档玄机，化繁为简。
+
+## ✨ 功能特性
+
+### 🤖 AI 助手
+- 智能对话，随时解答办公疑问
+- 多模型支持：智谱 GLM-5/4.7/4.6、OpenClaw 等
+- Agent 模式：自动调用工具完成复杂任务
+- 超长上下文支持，大文档也能轻松处理
+
+### 📝 文档审校
+- **双模式切换**：修订标记模式 / 直接替换模式
+- 自定义审阅人名称，修订标记个性化显示
+- 支持自定义审校要求，一键记住常用设置
+- 审校报告包含：问题统计、详细分析、修改建议
+
+### ⚖️ 智能审查
+- **广告法合规审查**：智能识别违规用语，生成合规建议
+- **合同审查**：条款风险识别、缺失项提示
+- **预包装食品标签审查**：符合法规要求的标签合规检测
+- **审查意见书**：A4 排版、衬线字体、编号分析、印章签署区，正式法律文书风格输出
+
+### 🎨 用户体验
+- Ribbon 集成，原生办公体验
+- 响应式 UI，支持多窗口自由调整
+- 自动清理旧版本，无缝升级
+- Windows & macOS 双平台支持
+
+## 📦 安装指南
+
+### 方式一：自动安装（推荐）
+
+1. 下载最新版本的 `tianji-ai-vx.x.x.zip`
+2. 解压到任意目录
+3. 双击运行安装脚本：
+   - Windows: `install.bat`
+   - macOS: `install.sh`
+4. 打开 WPS，在 Ribbon 栏找到「天机 AI」选项卡
+
+> 安装脚本会自动清理旧版本，无需手动卸载。
+
+### 方式二：手动安装
+
+1. 下载并解压 `tianji-ai-vx.x.x.zip`
+2. 打开 WPS → 开发工具 → 加载项
+3. 浏览选择解压目录中的 `tianji-ai.wps` 文件
+4. 启用插件
+
+## 🚀 使用说明
+
+### 首次使用
+
+1. 点击 Ribbon 栏「天机 AI」→「AI 助手」
+2. 在设置面板配置你的 API Key
+3. 选择偏好的 AI 模型
+4. 开始使用
+
+### 文档审校
+
+1. 打开需要审校的文档
+2. 点击「文档审校」按钮
+3. 选择审校类型（通用 / 法律 / 广告等）
+4. 设置审阅人名称（可选）
+5. 点击开始，等待 AI 分析
+6. 查看审校报告，选择接受或忽略修改建议
+
+### 审查意见书
+
+1. 完成文档审查后，点击「导出意见书」
+2. 系统自动生成带编号、印章区的正式文书
+3. 支持导出为 PDF 或图片
+
+## 🛠 技术架构
+
+```
+天机 AI
+├── 前端: Vue 3 + Vite
+├── UI 组件: Refined Theme
+├── WPS 集成: WPS Office JS API
+├── AI 引擎: 多模型适配层
+│   ├── 智谱 GLM (Coding/标准)
+│   ├── OpenClaw Gateway
+│   └── 更多提供商持续接入...
+└── 构建: 模块化架构，支持懒加载
+```
+
+### 兼容性
+
+| 平台 | 最低版本 | 状态 |
+|------|----------|------|
+| WPS Windows | 2019+ | ✅ 完全支持 |
+| WPS macOS | 3.0+ | ✅ 完全支持 |
+| Chrome 内核 | 90+ | ✅ 兼容 |
+
+## 🔄 更新日志
+
+### v0.2.0 (2026-02-28) - 品牌升级
+- 🎨 全新品牌：KAI 办公助手 → 天机 AI
+- 🏷️ Slogan：「你的文档，自有天机」
+- 📄 审查意见书正式版上线
+- 🛡️ 三重防护机制：加载提示 → 错误边界 → 全局兜底
+
+### v0.1.3 (2026-02-25)
+- ✨ 全新品牌视觉：紫蓝渐变圆标 + K 字形
+- 🔧 增加智谱 GLM (Coding) 提供商
+- 📝 文档审校支持自定义审阅人
+
+### v0.1.2 (2026-02-25)
+- ⏱️ API 超时延长至 60s + 自动重试
+- 🐛 修复 Windows 弹窗最小化问题
+
+### v0.1.0 (2026-02-24)
+- 🎉 首个公开版本发布
+
+[查看完整更新日志](./CHANGELOG.md)
+
+## 📝 许可证
+
+MIT License © 2026 天机 AI Team
+
+---
+
+<p align="center">
+  遇到问题？请提交 <a href="https://github.com/iam-zekai/tianji-ai-release/issues">Issue</a>
+</p>
